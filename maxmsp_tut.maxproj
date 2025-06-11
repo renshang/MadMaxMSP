@@ -2,7 +2,7 @@
 	"name" : "maxmsp_tut",
 	"version" : 1,
 	"creationdate" : 3825400470,
-	"modificationdate" : 3827655993,
+	"modificationdate" : 3829613727,
 	"viewrect" : [ -1354.0, 9.0, 515.0, 762.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -17,6 +17,16 @@
 			}
 ,
 			"01_onebang_to_swing.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"02_drum.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"sketch.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
